@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amruta Naik
-- 👀 I’m interested in understaningthe relationship between circadian biologyof viral infections and immunity 
+- 👀 I’m interested in understaning the relationship between circadian biologyof viral infections and immunity 
 - 🌱 I’m currently a postdoctoral fellow at the Children's Hospital of Philadelphia working on circadian biology of lung repair and regenration. 
-- 💞️ I’m looking to collaborate on SARS-CoV-2 related projects 
+- 💞️ I’m looking to collaborate on virology, ciracadian biology and immunology related projects 
 - 📫 I am available at NAIKA@email.chop.edu
 
 <!---
